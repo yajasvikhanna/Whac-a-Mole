@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.grid {
+    width: 606px; /* Adjust as needed */
+    height: 606px; /* Adjust as needed */
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/011/232/772/small/hole-in-the-ground-vector.jpg);
+    background-size: cover;
+}
+.mole
+{
+    width: 200px;
+    height: 200px;
+    background-image: url(Safeimagekit-crop-image-to-200x200.png);
+    background-size: cover;
+
+}
